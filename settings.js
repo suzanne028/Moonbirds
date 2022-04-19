@@ -16,11 +16,11 @@ const indexPageInfo = {
 }
 
 const claimPageInfo = {
-    title: "COLLECTORS<br>TOKEN", // <br> is a line break
+    title: "RAFFLE<br>TOKEN", // <br> is a line break
     shortDescription: "SHOW YOUR LOYALTY.",
     longDescription: "A GAL TOKEN IS A SIGN YOU’VE BEEN PART OF Galverse SINCE THE START. IT GIVES YOU EARLY ACCESS TO MERCH, EVENTS AND MORE.",
 
-    claimButtonText: "CLAIM NOW",
+    claimButtonText: "RAFFLE NOW",
 
     image: "logo.gif", // relative path to image (in assets)
     imageRadius: 250, // image radius in px
