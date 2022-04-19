@@ -10,7 +10,7 @@ const collectionInfo = {
 }
 
 const indexPageInfo = {
-    backgroundImage: "background.jpg", // relative path to background image (in assets)
+    backgroundImage: "background.png", // relative path to background image (in assets)
     title: "{name}", // {name} will be replaced with collectionInfo.name
     underTitle: "COLLECTORS TOKEN",
 }
