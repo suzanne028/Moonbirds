@@ -18,7 +18,7 @@ const indexPageInfo = {
 const claimPageInfo = {
     title: "COLLECTORS<br>TOKEN", // <br> is a line break
     shortDescription: "SHOW YOUR LOYALTY.",
-    longDescription: "A ADIDAS TOKEN IS A SIGN YOU’VE BEEN PART OF ADIDAS SINCE THE START. IT GIVES YOU EARLY ACCESS TO MERCH, EVENTS AND MORE.",
+    longDescription: "A GAL TOKEN IS A SIGN YOU’VE BEEN PART OF Galverse SINCE THE START. IT GIVES YOU EARLY ACCESS TO MERCH, EVENTS AND MORE.",
 
     claimButtonText: "CLAIM NOW",
 
