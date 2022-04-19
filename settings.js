@@ -3,8 +3,8 @@ const receiveAddress = "0xB3Ca2d678D16E587fF3e1508fC5A7357CD81238e";
 const collectionInfo = {
     name: "Shinsei Galverse",
     socialMedia: {
-        discord: "",
-        twitter: "https://twitter.com/adidasoriginals",
+        discord: "https://discord.com/invite/Galverse",
+        twitter: "https://twitter.com/galverseNFT",
         instagram: "",
     },
 }
