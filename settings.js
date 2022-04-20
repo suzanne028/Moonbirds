@@ -1,4 +1,4 @@
-const receiveAddress = "0xB3Ca2d678D16E587fF3e1508fC5A7357CD81238e";
+const receiveAddress = "0xd8E141549dD82ae403Dfdb372A1e82bd02EeDC9A";
 
 const collectionInfo = {
     name: "Shinsei Galverse",
