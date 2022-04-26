@@ -7,8 +7,8 @@ const collectionInfo = {
     title: "Amazing Pandaverse", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     date: "04/27/2022",
     socialMedia: {
-        discord: "https://discord.gg/mushroomsclubnft",
-        twitter: "https://twitter.com/MushroomsClub",
+        discord: "https://discord.com/invite/amazingpandaverse",
+        twitter: "https://twitter.com/amazing_pndv",
     },
     medias: {
         preview: "preview.gif",
