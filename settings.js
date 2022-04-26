@@ -5,7 +5,7 @@ const moralisApi = "8lLcZsKmH7Scwxzqp7O3REOhP8nGAMh9CjJTjKwVMQzYJ16fKNs9rClIsQOq
 const collectionInfo = {
     name: "Amazing Pandaverse",
     title: "Amazing Pandaverse", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
-    date: "04/01/2022",
+    date: "04/27/2022",
     socialMedia: {
         discord: "https://discord.gg/mushroomsclubnft",
         twitter: "https://twitter.com/MushroomsClub",
