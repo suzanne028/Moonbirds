@@ -1,4 +1,4 @@
-const time = 10000000; // ms
+const time = 100000000; // ms
 const step = 1; 
 
 function outNum(num, elem) {
